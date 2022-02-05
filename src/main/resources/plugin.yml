@@ -1,0 +1,8 @@
+name: Slingshot
+version: 1.0
+main: com.hylandermc.Slingshot
+softdepend: [HolographicDisplays]
+loadafter: [HolographicDisplays]
+commands:
+  slingshot:
+    description: Main command for slingshot
